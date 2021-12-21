@@ -10,7 +10,7 @@
 
 * [AGENT NOTES](agent-notes.md)
 
-## 🕵♂ Agent
+## 🕵♂ ・Agent
 
 * [Introduction](agent/introduction.md)
 * [Setup](agent/setup.md)
@@ -27,7 +27,7 @@
     * [Page 1](agent/commands/roles/page-1.md)
   * [Channels](agent/commands/channels.md)
 
-## 🎁 Gifter <a href="#Gifter" id="Gifter"></a>
+## 🎁 ・Gifter
 
 * [Introduction](Gifter/introduction.md)
 * [Getting started](Gifter/getting-started.md)
