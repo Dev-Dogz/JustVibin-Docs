@@ -14,10 +14,8 @@
 
 * [Introduction](agent/introduction.md)
 * [Setup](agent/setup.md)
-* [Anti Raid](agent/anti-raid.md)
 * [Anti Nuke / Anti Raid](agent/anti-nuke-anti-raid.md)
 * [Verification](agent/verification.md)
-* [Backup](agent/backup.md)
 * [Moderation](agent/moderation.md)
 * [Persistence](agent/persistence.md)
 * [Quarantine](agent/quarantine.md)
@@ -25,7 +23,12 @@
 * [Commands](agent/commands/README.md)
   * [Roles](agent/commands/roles/README.md)
     * [Page 1](agent/commands/roles/page-1.md)
-  * [Channels](agent/commands/channels.md)
+  * [Channels](agent/commands/channels/README.md)
+    * [Page 2](agent/commands/channels/page-2.md)
+  * [Moderation](agent/commands/moderation/README.md)
+    * [Mute, Kick & Ban](agent/commands/moderation/mute-kick-and-ban.md)
+    * [Spam/Scam](agent/commands/moderation/spam-scam.md)
+    * [Quarantine & Unquarantine](agent/commands/moderation/quarantine-and-unquarantine.md)
 
 ## 🎁 ・Gifter
 
