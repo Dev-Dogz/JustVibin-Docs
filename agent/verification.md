@@ -7,10 +7,10 @@ description: This page describes the verification system incorporated in Wick
 Agent includes an easy to setup but advanced system to verify that you are here for the right uses. It helps insure that you are a real user not a scripted user. Its set so everyone entering your server has to pass through it.\
 
 
-To enable/disable the join gate use `!joingate enable` or `!joingate disable`\
+To enable/disable the join gate use `a!joingate enable` or `a!joingate disable`\
 
 
-To set your verify channel use the command `!makeverify #channel`
+To set your verify channel use the command `a!makeverify #channel`
 
 ![](<../.gitbook/assets/image (1).png>)
 
