@@ -53,7 +53,15 @@ To set the channels use the following\
 \
 `a!links enable/disable` : Enables/disables server anti-links\
 \
-`a!words enable/disable` : Enables/disables server blackwords
+`a!words enable/disable` : Enables/disables server blackwords\
+\
+`a!joinraid enable/disable` : \
+\
+`a!joinraid kick/ban 5 10` : Triggers when 5 users join in 10 seconds, can kick or ban them.\
+\
+`a!mutetime (auto-mute period)` : \
+\
+`a!joingate enable/disable (verify message)` :
 
 ### Step 4: Setting Up Whitelist <a href="#step-2" id="step-2"></a>
 
@@ -65,12 +73,13 @@ To set the channels use the following\
 \
 `a!whitelist words add/del (blackwords)` :&#x20;
 
-### Step 5: Setting Triggers <a href="#step-2" id="step-2"></a>
+### Step 5: Setting Triggers & Blackwords <a href="#step-2" id="step-2"></a>
 
-a!joinraid enable/disable or \<kick/ban/quar>
+`!trigger <command> <role> <x within min> <x within hour>`
 
-a!addblackword word a!addblacklink link a!addblackname name
+`a!addblackword` :\
+\
+`a!addblacklink link` :\
+\
+`a!addblackname name` :
 
-a!mutetime (auto-mute period)
-
-a!joingate enable/disable (verify message)
