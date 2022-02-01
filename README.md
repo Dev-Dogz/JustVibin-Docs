@@ -17,15 +17,7 @@ docs.solodev.tech\
 \
 \
 Support & Business Server\
-[https://discord.gg/Trm4FFqdny\
-](https://discord.gg/Trm4FFqdny)\
-Ban Appeal\
-[https://forms.gle/LaQxDdLxAkPgDehn6](https://forms.gle/LaQxDdLxAkPgDehn6)\
-[https://forms.gle/Q7U7rFTbMakpN87Y8](https://forms.gle/Q7U7rFTbMakpN87Y8)\
-\
-Staff Apply
-
-
+[https://discord.gg/Trm4FFqdny](https://discord.gg/Trm4FFqdny)
 
 {% content-ref url="solodev.tech/terms-of-service.md" %}
 [terms-of-service.md](solodev.tech/terms-of-service.md)

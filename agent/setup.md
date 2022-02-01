@@ -55,31 +55,31 @@ To set the channels use the following\
 \
 `a!words enable/disable` : Enables/disables server blackwords\
 \
-`a!joinraid enable/disable` : \
+`a!joinraid enable/disable` : Enable/disable the join raid\
 \
 `a!joinraid kick/ban 5 10` : Triggers when 5 users join in 10 seconds, can kick or ban them.\
 \
-`a!mutetime (auto-mute period)` : \
+`a!mutetime (auto-mute period)` : Sets the time for how long a mute would last like defualt\
 \
-`a!joingate enable/disable (verify message)` :
+`a!joingate enable/disable (verify message)` : Enables or disables the joingate
 
 ### Step 4: Setting Up Whitelist <a href="#step-2" id="step-2"></a>
 
-`a!whitelist spam add/del (channels)` : \
+`a!whitelist spam add/del (channels)` : Adds and deletes whitelisted channels.\
 \
-`a!whitelist roleping add/del(roles)` : \
+`a!whitelist roleping add/del(roles)` : Adds and deletes whitelisted role pinging.\
 \
-`a!whitelist links add/del(links)` : \
+`a!whitelist links add/del(links)` : Adds and deletes whitelisted links.\
 \
-`a!whitelist words add/del (blackwords)` :&#x20;
+`a!whitelist words add/del (blackwords)` : Adds and deletes whitelisted black words.
 
 ### Step 5: Setting Triggers & Blackwords <a href="#step-2" id="step-2"></a>
 
-`!trigger <command> <role> <x within min> <x within hour>`
+`!trigger <command> <role> <x within min> <x within hour>` : Set triggers for certain roles.
 
-`a!addblackword` :\
+`a!addblackword` : Adds black words. Anyone that sends one of these words the message will be deleted.\
 \
-`a!addblacklink link` :\
+`a!addblacklink link` : Adds black links. Anyone that sends one of these links the message will be deleted.\
 \
-`a!addblackname name` :
+`a!addblackname name` : Adds blacklisted names. Anyone that joins with a name from this list it will notify staff.
 
