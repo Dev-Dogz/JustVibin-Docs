@@ -8,3 +8,5 @@ Agent is a Discord Security and Moderation Bot. Made to help guild owners guard 
 
 ## Need Support?
 
+{% embed url="https://discord.gg/Trm4FFqdny" %}
+

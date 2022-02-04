@@ -6,11 +6,7 @@
 * [Terms of Service](solodev.tech/terms-of-service.md)
 * [Privacy Policy](solodev.tech/privacy-policy.md)
 
-***
-
-* [AGENT NOTES](agent-notes.md)
-
-## 🕵♂ ・Agent
+## 🕵♂ 🕵♂ ・Agent
 
 * [Introduction](agent/introduction.md)
 * [Setup](agent/setup.md)
@@ -28,13 +24,4 @@
 
 ## 🎁 ・Gifter
 
-* [Introduction](Gifter/introduction.md)
-* [Getting started](Gifter/getting-started.md)
-* [General Commands](Gifter/general-commands.md)
-* [Logs](Gifter/logs.md)
-* [Page 3](Gifter/page-3.md)
-
-***
-
-* [Page 4](page-4.md)
-* [Page 6](page-6.md)
+* [Gifter Info](gifter/gifter-info.md)
