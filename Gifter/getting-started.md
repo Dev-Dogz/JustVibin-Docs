@@ -12,7 +12,7 @@ description: Starting your first giveaway using our interactive wizard!
 
 You now can add your requirements/multipliers _by clicking <mark style="color:green;">"Add Req."</mark> and/or <mark style="color:green;">"Add Mult."</mark>  _  after choose how your giveaway should run.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 Lastly, and when you make sure that everything is set click the <mark style="color:green;">**Start**</mark>** button** to start the giveaway!
 

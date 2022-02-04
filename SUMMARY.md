@@ -23,6 +23,8 @@
     * [Mute, Kick & Ban](agent/commands/moderation/mute-kick-and-ban.md)
     * [Spam/Scam](agent/commands/moderation/spam-scam.md)
     * [Quarantine & Unquarantine](agent/commands/moderation/quarantine-and-unquarantine.md)
+  * [Server Tools](agent/commands/server-tools.md)
+  * [Backps](agent/commands/backps.md)
 
 ## 🎁 ・Gifter
 

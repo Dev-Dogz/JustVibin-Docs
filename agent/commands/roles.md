@@ -35,3 +35,23 @@ Guild Owner (Permit Level 6)
 
 
 `a!runver` : Sets unverified role, (Permit Level 0) The unverified role for your server.
+
+
+
+## Adding Roles
+
+`a!addmaster <user/id>` : Adds master role to user \
+\
+`a!addowner <user/id>` : Adds owner role to user \
+\
+`a!addadmin <user/id>` : Adds admin role to user \
+\
+`a!addmod <user/id>` : Adds mod role to user \
+\
+`a!giverole <user/id> <role>` : Assigns role to user \
+\
+`a!removerole <user/id> <role>` : Removes role from user
+
+### Other
+
+`a!leavelist enable/disable` or `exempt <role>` : Saves roles for users, exempts specified role from saving

@@ -8,13 +8,19 @@ Servers are raided on a daily basis. Whether its a rouge admin, server perms not
 **Emoji Creation and Deletion**\
 **Blacklisted Names**
 
-`!trigger <command> <role> <x within min> <x within hour>` : Set triggers for certain roles.
+`a!trigger <command> <role> <x within min> <x within hour>` : Set triggers for certain roles.
 
 `a!addblackword` : Adds black words. Anyone that sends one of these words the message will be deleted.\
 \
+`a!delblackword` | `<word>` Removes word from blacklist\
+\
 `a!addblacklink link` : Adds black links. Anyone that sends one of these links the message will be deleted.\
 \
-`a!addblackname name` : Adds blacklisted names. Anyone that joins with a name from this list it will notify staff.
+`a!delblacklink` | `<link>` Removes link from blacklist\
+\
+`a!addblackname name` : Adds blacklisted names. Anyone that joins with a name from this list it will notify staff.\
+\
+`a!delblackname` | `<name>` Removes name from blacklist
 
 ### Backup System
 
@@ -29,12 +35,12 @@ To ensure a safe server and working anti nuke system Agent will restore the late
 \
 `a!showbackup/sbup <id>` : Shows more information about backup by using the id\
 \
-'restoreall/rall \<id>': 'Restores everything',\
+`a!restoreall/rall <id>` : Restores everything\
 \
-restoremissing/rms \<id>': 'Restores missing',\
+`a!restoremissing/rms <id>` : Restores missing\
 \
-'restorechannel/rsc \<all/channel(s)>': 'Restores specified or all channels',\
+`a!restorechannel/rsc <all/channel(s)>` : Restores specified or all channels\
 \
-restorerole/rsr \<all/role(s)>': 'Restores specified or all roles',\
+`a!restorerole/rsr <all/role(s)>` : Restores specified or all roles\
 \
-restorewebhooks/rswh': 'Restores all webhooks',
+`a!restorewebhooks/rswh` : Restores all webhooks
