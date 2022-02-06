@@ -75,7 +75,7 @@ To set the channels use the following\
 
 ### Step 5: Setting Triggers & Blackwords <a href="#step-2" id="step-2"></a>
 
-`!trigger <command> <role> <x within min> <x within hour>` : Set triggers for certain roles.
+`a!trigger <command> <role> <x within min> <x within hour>` : Set triggers for certain roles.
 
 `a!addblackword` : Adds black words. Anyone that sends one of these words the message will be deleted.\
 \
