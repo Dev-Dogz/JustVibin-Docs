@@ -24,5 +24,5 @@
 
 ## 🎁 ・Gifter
 
-* [Introduction](gifter/introduction.md)
+* [Introduction](gifter/gifter-info.md)
 * [Getting started](gifter/getting-started.md)
