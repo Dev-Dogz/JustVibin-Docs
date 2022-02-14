@@ -1,5 +1,7 @@
 ---
-description: Agent was constructed to protect your server from the threats you may face.
+description: >-
+  Agent is a Discord Security and Moderation Bot. Made to help guild owners
+  guard themselves against raiders, spammers and alot more.
 ---
 
 # Introduction
