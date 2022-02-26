@@ -1,10 +1,10 @@
 # Table of contents
 
-## SoloDev.Tech
+##
 
 * [SoloDev](README.md)
-* [Terms of Service](solodev.tech/tos.md)
-* [Privacy Policy](solodev.tech/privacy.md)
+* [Terms of Service](undefined/tos.md)
+* [Privacy Policy](undefined/privacy.md)
 
 ## 🕵♂ 🕵♂ ・Agent
 
