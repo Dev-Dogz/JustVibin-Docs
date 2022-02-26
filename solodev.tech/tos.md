@@ -10,7 +10,7 @@ Try to exploit Agent Bot in any way possible.
 
 Violate Discords ToS.
 
-Violate Agent Bot & SoloDevelopment terms and policies.
+Violate Agent Bot & SoloDev terms and policies.
 
 \
 
@@ -29,7 +29,7 @@ Try to exploit Agent Bot in any way possible.
 
 Violate Discords ToS.
 
-Violate Giveaway Bot & SoloDevelopment terms and policies.
+Violate Giveaway Bot & SoloDev terms and policies.
 
 Hack giveaways in any way.
 
@@ -44,18 +44,18 @@ _Last updated: December 06, 2021_
 
 Please read these terms and conditions carefully before using Our Service.
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to SoloDevelopment.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to SoloDev.
 
 Terms and Conditions (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
 
 Third-party Social Media Service means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
 
-Website refers to SoloDevelopment, accessible from https://www.solodevelopment.tech/ or https://solodev.tech/
+Website refers to SoloDev, accessible from https://solodev.tech/
 
 \
 
 
-We do not warrant that our Bots and SoloDevelopment Website or any service provided by us is error and bug free.
+We do not warrant that our Bots and SoloDev Website or any service provided by us is error and bug free.
 
 \
 
@@ -108,6 +108,4 @@ Without limiting the foregoing, neither the Company nor any of the company's pro
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
-By email: owner@solodevelopment.tech
-
-By visiting this page on our website: https://www.solodevelopment.tech/contact-us
+By email: staff@solodev.tech

@@ -2,9 +2,9 @@
 
 ## SoloDev.Tech
 
-* [SoloDevelopment](README.md)
-* [Terms of Service](solodev.tech/terms-of-service.md)
-* [Privacy Policy](solodev.tech/privacy-policy.md)
+* [SoloDev](README.md)
+* [Terms of Service](solodev.tech/tos.md)
+* [Privacy Policy](solodev.tech/privacy.md)
 
 ## 🕵♂ 🕵♂ ・Agent
 

@@ -1,4 +1,4 @@
-# SoloDevelopment
+# SoloDev
 
 Thanks for adding one of our public bots here our docs to help you!
 
@@ -20,10 +20,10 @@ SoloDevelopment is the place 'Where Development Meets The Future!' Made by Devel
 
 {% embed url="https://discord.gg/Trm4FFqdny" %}
 
-{% content-ref url="solodev.tech/terms-of-service.md" %}
-[terms-of-service.md](solodev.tech/terms-of-service.md)
+{% content-ref url="solodev.tech/tos.md" %}
+[tos.md](solodev.tech/tos.md)
 {% endcontent-ref %}
 
-{% content-ref url="solodev.tech/privacy-policy.md" %}
-[privacy-policy.md](solodev.tech/privacy-policy.md)
+{% content-ref url="solodev.tech/privacy.md" %}
+[privacy.md](solodev.tech/privacy.md)
 {% endcontent-ref %}
