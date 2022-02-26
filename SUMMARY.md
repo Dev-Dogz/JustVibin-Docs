@@ -1,10 +1,10 @@
 # Table of contents
 
-##
+## Info
 
 * [SoloDev](README.md)
-* [Terms of Service](undefined/tos.md)
-* [Privacy Policy](undefined/privacy.md)
+* [Terms of Service](info/tos.md)
+* [Privacy Policy](info/privacy.md)
 
 ## 🕵♂ 🕵♂ ・Agent
 

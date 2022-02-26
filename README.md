@@ -20,10 +20,10 @@ SoloDevelopment is the place 'Where Development Meets The Future!' Made by Devel
 
 {% embed url="https://discord.gg/Trm4FFqdny" %}
 
-{% content-ref url="undefined/tos.md" %}
-[tos.md](undefined/tos.md)
+{% content-ref url="info/tos.md" %}
+[tos.md](info/tos.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined/privacy.md" %}
-[privacy.md](undefined/privacy.md)
+{% content-ref url="info/privacy.md" %}
+[privacy.md](info/privacy.md)
 {% endcontent-ref %}
