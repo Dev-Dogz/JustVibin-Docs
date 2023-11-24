@@ -1,7 +1,3 @@
----
-description: This page describes the verification system incorporated in Wick
----
-
 # Verification
 
 Agent includes an easy to setup but advanced system to verify that you are here for the right uses.  Its set so everyone entering your server has to pass through it.\

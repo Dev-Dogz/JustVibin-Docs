@@ -1,8 +1,10 @@
 # Table of contents
 
+* [IMPORTANT](README.md)
+
 ## Info
 
-* [SoloDev](README.md)
+* [Just Vibin](<README (1).md>)
 * [Terms of Service](info/tos.md)
 * [Privacy Policy](info/privacy.md)
 
