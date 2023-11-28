@@ -8,6 +8,10 @@
 * [Terms of Service](info/tos.md)
 * [Privacy Policy](info/privacy.md)
 
+***
+
+* [Bot Update](bot-update.md)
+
 ## 🕵♂ 🕵♂ ・Agent
 
 * [Introduction](agent/introduction.md)
