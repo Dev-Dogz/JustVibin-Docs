@@ -10,9 +10,9 @@
 
 ***
 
-* [Bot Update](bot-update.md)
+* [BOT UPDATES](bot-updates.md)
 
-## 🕵♂ 🕵♂ ・Agent
+## 🕵♂ ・Agent
 
 * [Introduction](agent/introduction.md)
 * [Setup](agent/setup.md)
