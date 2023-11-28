@@ -2,9 +2,9 @@
 description: 'Disclaimer: Agent & Gifter Updates'
 ---
 
-# Bot Update
+# BOT UPDATES
 
-Dear users,
+29th November 2023
 
 We appreciate your interest in our Discord bots. Please be advised that as of the current moment, the two public Discord bots (Agent & Gifter) are undergoing significant updates and improvements. To ensure a smoother development process, we have temporarily set them to private mode.
 
