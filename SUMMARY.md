@@ -1,10 +1,8 @@
 # Table of contents
 
-* [IMPORTANT](README.md)
-
 ## Info
 
-* [Just Vibin](<README (1).md>)
+* [Just Vibin](README.md)
 * [Terms of Service](info/tos.md)
 * [Privacy Policy](info/privacy.md)
 
@@ -12,7 +10,7 @@
 
 * [BOT UPDATES](bot-updates.md)
 
-## 🕵♂ ・Agent
+## 🕵️‍♂️ ・Agent
 
 * [Introduction](agent/introduction.md)
 * [Setup](agent/setup.md)
@@ -32,3 +30,7 @@
 
 * [Introduction](gifter/gifter-info.md)
 * [Getting started](gifter/getting-started.md)
+
+## 🤖 ・Peg-E
+
+* [COMING SOON!](peg-e/coming-soon.md)
